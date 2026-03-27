@@ -1,0 +1,7 @@
+Case Study: Phishing Attack
+
+Phishing is a widely used cybercrime technique where attackers attempt to deceive individuals into sharing confidential information such as passwords, OTPs, or banking details.
+
+In most phishing incidents, users receive emails or messages that seem to come from trusted organizations like banks or popular companies. These messages usually include a link that directs users to a fraudulent website designed to look authentic. When users enter their personal information on these fake sites, the attackers capture and misuse the data.
+
+Phishing attacks can result in serious consequences, including financial losses, identity theft, and unauthorized access to personal data. Many people become victims because the messages appear legitimate and often create a sense of urgency, prompting users to act quickly without verifying the source.
