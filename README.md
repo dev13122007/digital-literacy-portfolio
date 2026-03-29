@@ -4,6 +4,7 @@
 **Course Title:** Digital Literacy
 **University:** VIT Bhopal University
 **Student Name:** Divyansh Gupta
+**Registration Number:**25BAI11274
 **Program:** B.Tech
 **Year:** First Year
 
